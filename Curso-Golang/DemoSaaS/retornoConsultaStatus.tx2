@@ -1,0 +1,23 @@
+[STATUS]
+AMBIENTE=Homologação
+
+MODOATUAL=Normal
+
+NORMAL=107\delimiterServico em Operacao
+
+[Estatística]
+TempoMedio= 00:00:00\delimiter nas últimas 0 notas enviadas.
+[REPOSITÓRIO]
+REJEITADA - Contingencia Offline = 139
+REJEITADA - Normal = 852
+ENVIADA - Normal = 125
+RECEBIDA - Normal = 1
+ENVIADA - Contingencia Offline = 1
+AUTORIZADA - Contingencia Offline = 334
+AUTORIZADA - Normal = 1170
+CANCELADA - Contingencia Offline = 6
+INUTILIZADA - Contingencia Offline = 3
+CANCELADA - Normal = 237
+INUTILIZADA - Normal = 73
+REGISTRADA - Normal = 459
+REGISTRADA - Contingencia Offline = 47
