@@ -156,7 +156,6 @@ func resolve() {
 	ioutil.WriteFile("C:\\Arquivos\\Go\\src\\Curso-Golang\\DemoSaaS\\retornoresolve.tx2", body, 0644)
 }
 
-//Função Principal
 func main() {
 	fmt.Print("Demo SaaS Golang!!!\n\n")
 	fmt.Println("Se deseja enviar digite 1: ")
